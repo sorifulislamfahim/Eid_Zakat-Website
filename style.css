@@ -1,0 +1,153 @@
+.first-part {
+    height: 400px;
+    /* background-image: url(images/profile.jpg); */
+    background-image: linear-gradient(to right, rgb(10, 1, 1)1%, rgba(0, 0, 0, 0)100%), url(images/profile.jpg);
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+header {
+    margin-left: 20%;
+    margin-right: 50%;
+    color: white;
+    padding-top: 4%;
+}
+
+button {
+    border: none;
+    background-image: linear-gradient(red, orangered);
+    padding: 10px 10px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.secend-part,
+.third-part {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.half-width {
+    width: 50%;
+    margin: 10px 30px;
+
+}
+
+.half-width img {
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.text-part {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.five-part {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.column-part {
+    display: flex;
+    width: 50%;
+    background-color: rgb(206, 187, 179);
+    margin: 1% 1%;
+    border-radius: 5px;
+    padding: 3% 3%;
+}
+
+.half-woark img {
+    width: 80px;
+    margin-top: 10%;
+}
+
+.half-woark {
+    margin: 2% 2%;
+}
+
+.six-part {
+    margin-top: 100px;
+    display: flex;
+    height: 300px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+}
+
+.third-img {
+    height: 100px;
+    margin: 2% 2%;
+}
+
+.third-img img {
+    width: 100%;
+    border-radius: 10px;
+    height: 300px;
+}
+
+.seven-part {
+    text-align: center;
+}
+
+.eight-part {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+}
+
+.three-part img {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.three-part {
+    width: 30%;
+    padding: 2% 2%;
+    height: 400px;
+    border: 2px solid gray;
+    margin: 5px 10px;
+    border-radius: 10px;
+}
+
+a {
+    color: red;
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h6 {
+    font-size: 25px;
+    color: red;
+    padding-top: 10px;
+}
